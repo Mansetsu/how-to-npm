@@ -1,6 +1,6 @@
 {
   "name": "@zukati/first",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Practicing NPM Packageing",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Mansetsu/how-to-npm#readme",
   "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+    "@linclark/pkg": "^1.0.3"
+  },
+  "devDependencies": {}
 }
