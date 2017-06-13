@@ -1,0 +1,1 @@
+In this package, I've been learning how to use NPM. It's an interesting design and made ever more intriguing because I'm trying to make sure I keep my git files up to date while I'm at it. What better way to ensure understanding and practice than by practicing Git while learning NPM
